@@ -1,0 +1,12 @@
+{
+  "responses": [
+    {
+      "trigger": "السلام عليكم",
+      "response": "وعليكم السلام"
+    },
+    {
+      "trigger": "",
+      "response": ""
+    }
+  ]
+}
